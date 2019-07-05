@@ -3,4 +3,7 @@
 
 codetempalte, task tag 는 저장됨
 
+자동완성은 java> Editor> Templates  
+import/export 기능이 있는 걸로 봐서 여기에서 export/import하고 설정 파일은 따로 관리해야 되는것 같다.  
+
 
