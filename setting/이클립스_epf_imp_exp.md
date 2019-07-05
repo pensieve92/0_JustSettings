@@ -3,9 +3,9 @@
 
 codetempalte, task tag 는 저장됨
 
-인코딩 설정은 따로 export/import 설정이 없어 따로 해줘야되는 것 같다.
+*인코딩 설정은 따로 export/import 설정이 없어 따로 해줘야되는 것 같다.
 
-자동완성은 java> Editor> Templates  
+*자동완성은 java> Editor> Templates  
 import/export 기능이 있는 걸로 봐서 여기에서 export/import하고 설정 파일은 따로 관리해야 되는것 같다.  
 
 
