@@ -1,6 +1,7 @@
 이클립스 환경 설정 파일 : .epf  
-인코딩 설정, 자동완성 설정은 저장 안되는듯.. ??   
+file > export > General > preferences
 
+인코딩 설정, 자동완성 설정은 저장 안되는듯.. ??   
 codetempalte, task tag 는 저장됨
 
 *인코딩 설정은 따로 export/import 설정이 없어 따로 해줘야되는 것 같다.
