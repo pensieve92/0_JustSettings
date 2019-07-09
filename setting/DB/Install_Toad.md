@@ -7,7 +7,6 @@
 
 > #### Instant client 설정
 > 참고 사이트 : https://m.blog.naver.com/PostView.nhn?blogId=drm1801&logNo=220433988913&proxyReferer=https%3A%2F%2Fwww.google.com%2F
-
 > 1. 환경변수 설정
 > TNS_ADMIN   : C:\oracle\instantclient
 > Path        : C:\oracle\instantclient 추가
